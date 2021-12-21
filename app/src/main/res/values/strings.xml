@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="time">Time:</string>
+    <string name="date">Date:</string>
+    <string name="write_text">write text</string>
+    <string name="send_message">Send Message</string>
+    <string name="get_current_date">Get Current date</string>
+</resources>
